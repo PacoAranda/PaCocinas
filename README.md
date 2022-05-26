@@ -1,5 +1,5 @@
 # ViewGym
-ViewGym es una página web de un gimnasio donde los clientes pueden ver lsa diferentes ofertas así como las clases que se imparten y los horarios.
+ViewGym es una página web de un gimnasio donde los clientes pueden ver las diferentes ofertas así como las clases que se imparten y los horarios.
 ## Funciones
 A la página podrás entrar aunque no estés registrado y podrás ver las ofertas de suscripción además de poder acceder al apartado "Sobre Nosotros" donde se desglosa información sobre monitores, clases, horarios, instalaciones etc.
 

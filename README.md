@@ -21,5 +21,5 @@ He tenido problemas al subir los archivos de la página en el repositorio por lo
 https://drive.google.com/file/d/1tNY6-lYjAdt3kf42U5bNw-7qgLw0kTUB/view?usp=sharing
 
 ## Vídeo
-Aquí está el video demotración del funcionamiento de la página
+Aquí está el video demotración del funcionamiento de la página:
 https://youtu.be/byjbXzoc6R8

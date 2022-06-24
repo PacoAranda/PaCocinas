@@ -16,3 +16,10 @@ A la página se puede entrar sin necesidad de estar registrado y se mostrarán l
 Arriba habrá un navegador donde podrás ir a las diferentes secciones de la página (Home, Sobre Nosotros, Clases etc.)
 
 También habrá un apartado de inicio de sesión/registro.
+## Archivos
+He tenido problemas al subir los archivos de la página en el repositorio por lo que dejo el siguiente enlace a Google Drive
+https://drive.google.com/file/d/1tNY6-lYjAdt3kf42U5bNw-7qgLw0kTUB/view?usp=sharing
+
+## Vídeo
+Aquí está el video demotración del funcionamiento de la página
+https://youtu.be/byjbXzoc6R8
